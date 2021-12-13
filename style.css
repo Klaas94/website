@@ -7,47 +7,21 @@
 	width: 1080px;
 	margin: 0px auto;
 	background: #FFFFFF;
-  border-radius: 25px
+
 }
 
 
 
-header {
- border: 1px solid red;
- width: 100%;
- height: 100px;
- background: #FEF5E7;
+#header {
    text-align: center;
-   margin: auto;
-   float: left;
+
 
  }
 
 
-
-       #logo {
-         display: flex;
-         align-items: center;
-         justify-content: center;
-       }
-
-
-
-       #ruglogo {
-          width: 600px;
-        }
-
-       #ruglogo img {
-
-       }
-
-
-       #naamtest {
-         font-size: 20px;
-         padding-left: 20px;
-       }
-
-
+ #header img {
+    width: 300px;
+ }
 
 nav {
     background-color: #FEF5E7;
@@ -99,7 +73,7 @@ ul {
 }
 
 #page {
-	
+
 	 /*width: 940px; */
 	width: 1000px;
 	margin: 0 auto;
@@ -155,6 +129,7 @@ ul {
 	float: right;
 	width: 280px;
   font-size: 12px;
+
 }
 
 
@@ -283,6 +258,3 @@ button {
 button:hover, a:hover {
   opacity: 0.7;
 }
-
-
-
